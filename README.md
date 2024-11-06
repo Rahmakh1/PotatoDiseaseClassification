@@ -7,8 +7,8 @@ Identify early blight (caused by Alternaria solani).
 Distinguish healthy potato leaves from diseased ones.
 ### Dataset
 The dataset is publically available. I get it from Kaggle via the link
-'''
+
 https://www.kaggle.com/datasets/muhammadardiputra/potato-leaf-disease-dataset
-'''
+
 ### Future Work
 -Develop a web-based interface or mobile app for farmers to use the model in real time.
